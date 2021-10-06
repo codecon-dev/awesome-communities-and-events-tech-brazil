@@ -14,6 +14,7 @@
 
 | Nome                                         | Descrição                                                                    |
 | -------------------------------------------- | ---------------------------------------------------------------------------- |
+| [Backend Brasil](https://github.com/backend-br/) |  Página oficial da comunidade brasileira de backenders!. |
 | [Feministech](https://twitter.com/feminis_tech?lang=pt) | Somos um grupo de pessoas que se identificam no feminino e não binárias que compartilham conhecimento fazendo lives sobre tecnologia na Twitch.            |
 | [Front-end Brasil](https://github.com/frontendbr) | O mundo frontender dentro do Github 🍺    |
 | [Grupy-SP](https://www.meetup.com/Grupy-SP/) | Grupo de usuários Python do Estado de São Paulo.    |
