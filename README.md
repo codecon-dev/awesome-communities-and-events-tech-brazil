@@ -21,6 +21,7 @@
 | [GURU-SP](https://www.meetup.com/Guru-SP-Grupo-de-Usuarios-Ruby-de-Sao-Paulo/) | Grupo de Usuários Ruby de São Paulo    |
 | [He4rt Developers](https://heartdevs.com) | A He4rt Developers foi criada com o intuito de guiar quem deseja iniciar na área da programação.    |
 | [perifaCode](https://perifacode.com) | A comunidade de tecnologia de quem é de periferia.    |
+| [PHP Com Rapadura](https://phpcomrapadura.org/) | Grupo de desenvolvedores PHP do Ceará, formados através de uma ligação doce, como a rapadura e o café.    |
 | [PHP Santa Catarina](https://twitter.com/PHP_SC) | O Grupo de Usuários de PHP do Estado de Santa Catarina (PHPSC) é uma entidade aberta de profissionais da área de TI criada em 2007.    |
 | [PHPSP](https://phpsp.org.br) | Grupo de desenvolvedores PHP do estado de São Paulo    |
 | [PyLadies](http://brasil.pyladies.com) | Uma comunidade mundial que foi trazida ao Brasil com o propósito de instigar mais mulheres a entrarem na área tecnológica    |
