@@ -21,6 +21,7 @@
 | [Brazilians in Tech](https://braziliansintech.com) |  A Brazilians in Tech é um espaço para conectar, encorajar e empoderar brasileiras estudando e trabalhando nas áreas de Ciência, Tecnologia, Computação e Engenharia. |
 | [Feministech](https://twitter.com/feminis_tech?lang=pt) | A Feministech é um grupo de pessoas que se identificam no feminino e não-bináries que produzem, consomem e compartilham conteúdo sobre tecnologia, enquanto constroem uma comunidade diversa e inclusiva.            |
 | [Front-end Brasil](https://github.com/frontendbr) | O mundo frontender dentro do Github 🍺    |
+| [Hack Club Brasil](https://brasil.hackclub.com) | Operação brasileira do Hack Club, uma rede global sem fins lucrativos de jovens makers e clubes de programação liderados por estudantes, onde jovens criam projetos e se desenvolvem para pensar grande e criar impacto com tecnologia no mundo.    |
 | [Grupy-SP](https://www.meetup.com/Grupy-SP/) | Grupo de usuários Python do Estado de São Paulo.    |
 | [GURU-SP](https://www.meetup.com/Guru-SP-Grupo-de-Usuarios-Ruby-de-Sao-Paulo/) | Grupo de Usuários Ruby de São Paulo    |
 | [He4rt Developers](https://heartdevs.com) | A He4rt Developers foi criada com o intuito de guiar quem deseja iniciar na área da programação.    |
