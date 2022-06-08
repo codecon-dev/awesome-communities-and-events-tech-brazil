@@ -37,3 +37,9 @@
 | [Daniel He4rt](https://www.twitch.tv/danielhe4rt) | Desenvolvedor com alguns anos de experiência desenvolvendo aplicações com PHP e Laravel. No tempo livre, streamer com conteúdo sobre programação e criador/mentor do projeto He4rt Developers, uma comunidade de devs que incita novos programadores a ensinar e colaborar em projetos abertos.    |
 | [Pachi Codes](https://www.twitch.tv/pachicodes) | Moça de DevRel e co-fundadora da @feministech 💌    |
 | [PokemaoBR](https://www.twitch.tv/pokemaobr) | Entretenimento para todos os gostos. Improvisos humorísticos, códigos em PHP, palestras de diversos temas, gama game, react, bingo, captura de linguagens de programação, jogos e muito mais!    |
+
+## Eventos
+
+| Nome                                         | Descrição                                                                    |
+| -------------------------------------------- | ---------------------------------------------------------------------------- |
+| [Codecon](https://codecon.dev/) | Evento anual que reune código, conteúdo e atividades mão na massa!            |
