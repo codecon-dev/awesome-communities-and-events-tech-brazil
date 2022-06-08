@@ -9,6 +9,7 @@
 
 - [Comunidades](#comunidades)
 - [Streamers](#streamers)
+- [Eventos](#eventos)
 
 ## Comunidades
 
