@@ -17,7 +17,7 @@
 | -------------------------------------------- | ---------------------------------------------------------------------------- 
 | [Abacatinhos.dev](https://abacatinhos.dev/)| Uma oportunidade para pessoas interessadas na área de DevRel ou começando nela. Assim sendo, podemos bater um papo sobre a área, esclarecer dúvidas e criar um plano de ação em conjunto.|
 | [Backend Brasil](https://github.com/backend-br/) |  Página oficial da comunidade brasileira de backenders!. |
-| [Feministech](https://twitter.com/feminis_tech?lang=pt) | Somos um grupo de pessoas que se identificam no feminino e não binárias que compartilham conhecimento fazendo lives sobre tecnologia na Twitch.            |
+| [Feministech](https://twitter.com/feminis_tech?lang=pt) | A Feministech é um grupo de pessoas que se identificam no feminino e não-bináries que produzem, consomem e compartilham conteúdo sobre tecnologia, enquanto constroem uma comunidade diversa e inclusiva.            |
 | [Front-end Brasil](https://github.com/frontendbr) | O mundo frontender dentro do Github 🍺    |
 | [Grupy-SP](https://www.meetup.com/Grupy-SP/) | Grupo de usuários Python do Estado de São Paulo.    |
 | [GURU-SP](https://www.meetup.com/Guru-SP-Grupo-de-Usuarios-Ruby-de-Sao-Paulo/) | Grupo de Usuários Ruby de São Paulo    |
