@@ -35,6 +35,7 @@
 | [System Design Brasil](https://twitter.com/systemdesignbr) | Comunidade brasileira com foco em discussões sobre System Design    |
 | [Todas as Letras](https://www.todasasletras.org) | Inserimos talentos LGBTI+ na área de tecnologia.            |
 | [Universidade Brasileira Livre](https://github.com/Universidade-Livre) | A Universidade Brasileira Livre é um projeto sem fins lucrativos que organiza o conteúdo online em pt-BR para aumentar o acesso de Brasileiros a educação! |
+| [Vue Norte](https://t.me/vuejsnorte) | Uma das maiores comunidades de tecnologia da região Norte. Fundada em Belém do Pará, mas com pessoas de todo o mundo! Prontos para lhe ajudar a progredir na sua carreira. |
 | [WoMakersCode](https://womakerscode.org/) | Somos a maior comunidade de mulheres na tecnologia da América Latina            |
 
 ## Streamers
