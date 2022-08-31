@@ -16,13 +16,13 @@
 | Nome                                         | Descrição                                                                    |
 | -------------------------------------------- | ---------------------------------------------------------------------------- 
 | [Abacatinhos.dev](https://abacatinhos.dev/)| Uma oportunidade para pessoas interessadas na área de DevRel ou começando nela. Assim sendo, podemos bater um papo sobre a área, esclarecer dúvidas e criar um plano de ação em conjunto.|
-| [Aperture Laboratories](https://discord.gg/nyTRNSV) |  Discord oficial da comunidade brasileira de desenvolvimento! |
 | [Backend Brasil](https://github.com/backend-br/) |  Página oficial da comunidade brasileira de backenders!. |
 | [Feministech](https://twitter.com/feminis_tech?lang=pt) | A Feministech é um grupo de pessoas que se identificam no feminino e não-bináries que produzem, consomem e compartilham conteúdo sobre tecnologia, enquanto constroem uma comunidade diversa e inclusiva.            |
 | [Front-end Brasil](https://github.com/frontendbr) | O mundo frontender dentro do Github 🍺    |
 | [Grupy-SP](https://www.meetup.com/Grupy-SP/) | Grupo de usuários Python do Estado de São Paulo.    |
 | [GURU-SP](https://www.meetup.com/Guru-SP-Grupo-de-Usuarios-Ruby-de-Sao-Paulo/) | Grupo de Usuários Ruby de São Paulo    |
 | [He4rt Developers](https://heartdevs.com) | A He4rt Developers foi criada com o intuito de guiar quem deseja iniciar na área da programação.    |
+| [Kalify Community](https://discord.gg/jhSepmE7nN) |  Discord oficial da comunidade brasileira de desenvolvimento e programação! |
 | [perifaCode](https://perifacode.com) | A comunidade de tecnologia de quem é de periferia.    |
 | [PHP Com Rapadura](https://phpcomrapadura.org/) | Grupo de desenvolvedores PHP do Ceará, formados através de uma ligação doce, como a rapadura e o café.    |
 | [PHP Santa Catarina](https://twitter.com/PHP_SC) | O Grupo de Usuários de PHP do Estado de Santa Catarina (PHPSC) é uma entidade aberta de profissionais da área de TI criada em 2007.    |
