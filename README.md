@@ -16,6 +16,7 @@
 | Nome                                         | Descrição                                                                    |
 | -------------------------------------------- | ---------------------------------------------------------------------------- 
 | [Abacatinhos.dev](https://abacatinhos.dev/)| Uma oportunidade para pessoas interessadas na área de DevRel ou começando nela. Assim sendo, podemos bater um papo sobre a área, esclarecer dúvidas e criar um plano de ação em conjunto.|
+| [AfroPython](https://afropython.org/)| Um movimento sem fins lucrativos, atualmente composto por profissionais de TI, Marketing e Comunicação voluntários, e que promove ações e eventos de qualificação na área de TI e discute questões sobre negritude e tecnologia.|
 | [Backend Brasil](https://github.com/backend-br/) |  Página oficial da comunidade brasileira de backenders!. |
 | [Brazilians in Tech](https://braziliansintech.com) |  A Brazilians in Tech é um espaço para conectar, encorajar e empoderar brasileiras estudando e trabalhando nas áreas de Ciência, Tecnologia, Computação e Engenharia. |
 | [Feministech](https://twitter.com/feminis_tech?lang=pt) | A Feministech é um grupo de pessoas que se identificam no feminino e não-bináries que produzem, consomem e compartilham conteúdo sobre tecnologia, enquanto constroem uma comunidade diversa e inclusiva.            |
