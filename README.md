@@ -16,6 +16,7 @@
 | Nome                                         | Descrição                                                                    |
 | -------------------------------------------- | ---------------------------------------------------------------------------- 
 | [Abacatinhos.dev](https://abacatinhos.dev/)| Uma oportunidade para pessoas interessadas na área de DevRel ou começando nela. Assim sendo, podemos bater um papo sobre a área, esclarecer dúvidas e criar um plano de ação em conjunto.|
+| [AfroPython](https://afropython.org/)| Um movimento sem fins lucrativos, atualmente composto por profissionais de TI, Marketing e Comunicação voluntários, e que promove ações e eventos de qualificação na área de TI e discute questões sobre negritude e tecnologia.|
 | [Backend Brasil](https://github.com/backend-br/) |  Página oficial da comunidade brasileira de backenders!. |
 | [Brazilians in Tech](https://braziliansintech.com) |  A Brazilians in Tech é um espaço para conectar, encorajar e empoderar brasileiras estudando e trabalhando nas áreas de Ciência, Tecnologia, Computação e Engenharia. |
 | [Feministech](https://twitter.com/feminis_tech?lang=pt) | A Feministech é um grupo de pessoas que se identificam no feminino e não-bináries que produzem, consomem e compartilham conteúdo sobre tecnologia, enquanto constroem uma comunidade diversa e inclusiva.            |
@@ -32,6 +33,7 @@
 | [PHPSP](https://phpsp.org.br) | Grupo de desenvolvedores PHP do estado de São Paulo    |
 | [PyLadies](http://brasil.pyladies.com) | Uma comunidade mundial que foi trazida ao Brasil com o propósito de instigar mais mulheres a entrarem na área tecnológica    |
 | [Quebradev](https://quebra.dev/) | Um movimento social que tem como objetivo democratizar a informação para a periferia.    |
+| [R-Ladies](https://rladies.org/brazil-rladies/) | R-Ladies é uma organização mundial que promove a diversidade de gênero na comunidade R. |
 | [System Design Brasil](https://twitter.com/systemdesignbr) | Comunidade brasileira com foco em discussões sobre System Design    |
 | [Todas as Letras](https://www.todasasletras.org) | Inserimos talentos LGBTI+ na área de tecnologia.            |
 | [Universidade Brasileira Livre](https://github.com/Universidade-Livre) | A Universidade Brasileira Livre é um projeto sem fins lucrativos que organiza o conteúdo online em pt-BR para aumentar o acesso de Brasileiros a educação! |
