@@ -15,6 +15,7 @@
 
 | Nome                                         | Data  | Local  | Descrição                                                         |
 | -------------------------------------------- | ----- | ------ | ----------------------------------------------------------------- |
+|[Conferência CSS Brasil 2023 + Code In The Dark](https://www.sympla.com.br/evento/conferencia-css-brasil-2023-code-in-the-dark/1759146)|21 de janeiro|São Paulo, SP|A Conferência CSS Brasil está de volta após 7 anos de sua primeira edição, e ela não volta sozinha! O evento contará com o Code In The Dark, competição para pessoas desenvolvedoras, testarem suas habilidades no desenvolvimento valendo prêmio.|
 | [Codecon Digital](https://codecon.dev/) | 22 e 23 de junho | Online |O evento acontecerá em uma nova cidade digital, com tema de fantasial/medieval no Gather Town e contará com tudo o que já nos divertiu e nos informou nas últimas edições|
 | [Codecon Summit](https://codecon.dev/) | 25 e 26 de agosto | Joinville, SC |A Codecon Summit será um festival que reunirá inovação, tecnologia, código e diversão.|
 | [Codecon Feature](https://codecon.dev/) | 28 de outubro | Florianópolis, SC |Um evento direcionado a pessoas desenvolvedoras em cargos sênior ou superiores que desejam crescimento profissional e sair da inércia, trazendo discussões para aprendizagem e inspiração em temas relacionados a equipe, processo, tecnologia e desenvolvimento pessoal.|
