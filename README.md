@@ -1,15 +1,22 @@
-# Awesome Communities Brazil
-## Comunidades Brasileiras Incríveis
+# Awesome communities and events Brazil
+## Comunidades e eventos de tecnologia brasileiros incríveis
 
-![Awesome Communities Brazil](https://user-images.githubusercontent.com/9409763/136099289-7be0a7bd-25af-401b-82e1-4d1bd18e2615.png)
+![Awesome Communities and Events Brazil](https://user-images.githubusercontent.com/9409763/213772789-4bec6d9d-7523-434e-9197-de1fd3cb85ae.png)
 
-> Uma curadoria de comunidades tech incríveis para você participar
+> Uma curadoria de comunidades eventos tech incríveis para você participar
 
 ## Sumário
 
+- [Eventos 2023](#eventos)
 - [Comunidades](#comunidades)
 - [Streamers](#streamers)
-- [Eventos](#eventos)
+
+## Eventos
+
+| Nome                                         | Descrição                                                                    |
+| -------------------------------------------- | ---------------------------------------------------------------------------- |
+| [Codecon](https://codecon.dev/) | Evento anual que reune código, conteúdo e atividades mão na massa!            |
+
 
 ## Comunidades
 
@@ -50,10 +57,3 @@
 | [PokemaoBR](https://www.twitch.tv/pokemaobr) | Entretenimento para todos os gostos. Improvisos humorísticos, códigos em PHP, palestras de diversos temas, gama game, react, bingo, captura de linguagens de programação, jogos e muito mais!    |
 | [Levxyca](https://www.twitch.tv/levxyca) | Hobbies demais, introvertida, conversas sobre tech e aleatoriedades; 🌸 dev web front-end, streamer, criadora de conteúdo de tecnologia/programação e co-fundadora da @feminis_tech; ⭐ GitHub Star ⭐ aqui você encontra streams de front-end, muita conversa e entretenimento. |
 | [Maximillian Arruda](https://www.twitch.tv/maxdearruda) | Envolvido com desenvolvimento de software desde 2003, entusiasta de código open-source, membro do SouJava que gosta de organizar,  participar e palestrar em eventos para a comunidade.Sempre disponível para trocar experiências sobre desenvolvimento de software afim de aprender e ajudar a comunidade sobre técnicas, abordagens e melhores práticas. |
-
-
-## Eventos
-
-| Nome                                         | Descrição                                                                    |
-| -------------------------------------------- | ---------------------------------------------------------------------------- |
-| [Codecon](https://codecon.dev/) | Evento anual que reune código, conteúdo e atividades mão na massa!            |
