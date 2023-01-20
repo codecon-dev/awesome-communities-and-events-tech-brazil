@@ -7,10 +7,7 @@
 
 ## Sumário
 
-- [Eventos 2023](#eventos)
-  - [Tecnologia (sem linguagem definida)](#tecnologia-sem-linguagem-definida)
-  - [Front-end](#front-end)
-  - [Arquitetura ou assuntos sênior+](#arquitetura-ou-assuntos-sênior)
+- [Eventos 2023](#eventos-2023)
 - [Comunidades](#comunidades)
 - [Streamers](#streamers)
 
