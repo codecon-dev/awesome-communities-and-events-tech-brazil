@@ -17,7 +17,8 @@
 
 | Nome                                         | Data  | Local  | Categorias               |Call4paper               |
 | -------------------------------------------- | ----- | ------ | ------------------------- |------------------------- |
-|[Conferência CSS Brasil 2023 + Code In The Dark](https://www.sympla.com.br/evento/conferencia-css-brasil-2023-code-in-the-dark/1759146)|21 de janeiro|São Paulo, SP|Front-end, CSS, Code In The Dark| Não |
+|[Conferência CSS Brasil 2023 + Code In The Dark](https://www.sympla.com.br/evento/conferencia-css-brasil-2023-code-in-the-dark/1759146)|21 de janeiro|São Paulo, SP|Front-end, CSS, Code In The Dark| Encerrado |
+|[DevRelCon LATAM 2023](https://latam-2023.devrelcon.dev/)|9 e 10 de fevereiro|Digital|DevRel, Comunidades, Community Manager|Encerrado|
 | [Codecon Digital](https://codecon.dev/) | 22 e 23 de junho | Online |Tecnologias, Carreira, Gamificação, Desafios, Hackathon, Fish bowl| [Aqui](https://tally.so/r/w8NDPA) |
 | [Codecon Summit](https://codecon.dev/) | 25 e 26 de agosto | Joinville, SC |Tecnologias, Carreira, Hackathon de projetos desnecessários, Fish bowl, Meet&Cookies| [Aqui](https://tally.so/r/w5X0GM) |
 | [Codecon Feature](https://codecon.dev/) | 28 de outubro | Florianópolis, SC |Rodas de discussão, Architectural Kata, fish bowl, seções de desconferência, Workshops de hábitos, Keynotes internacionais| [Aqui](https://tally.so/r/mDqOJb) |
