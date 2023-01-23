@@ -22,7 +22,7 @@
 | [Codecon Digital](https://codecon.dev/) | 22 e 23 de junho | Online |Tecnologias, Carreira, Gamificação, Desafios, Hackathon, Fish bowl| [Aqui](https://tally.so/r/w8NDPA) |
 | [Codecon Summit](https://codecon.dev/) | 25 e 26 de agosto | Joinville, SC |Tecnologias, Carreira, Hackathon de projetos desnecessários, Fish bowl, Meet&Cookies| [Aqui](https://tally.so/r/w5X0GM) |
 | [Codecon Feature](https://codecon.dev/) | 28 de outubro | Florianópolis, SC |Rodas de discussão, Architectural Kata, fish bowl, seções de desconferência, Workshops de hábitos, Keynotes internacionais| [Aqui](https://tally.so/r/mDqOJb) |
-
+| [IWD Cerrado 2023](https://www.iwdcerrado.com.br/) | 15 de abril | Goiânia, GO |Tecnologias, Carreira, networking, Workshops, Keynotes| [Aqui](https://forms.gle/CvVJCLExkCMZZQNx8) |
 
 ## Comunidades
 
@@ -52,6 +52,8 @@
 | [Universidade Brasileira Livre](https://github.com/Universidade-Livre) | A Universidade Brasileira Livre é um projeto sem fins lucrativos que organiza o conteúdo online em pt-BR para aumentar o acesso de Brasileiros a educação! |
 | [Vue Norte](https://t.me/vuejsnorte) | Uma das maiores comunidades de tecnologia da região Norte. Fundada em Belém do Pará, mas com pessoas de todo o mundo! Prontos para lhe ajudar a progredir na sua carreira. |
 | [WoMakersCode](https://womakerscode.org/) | Somos a maior comunidade de mulheres na tecnologia da América Latina            |
+| [Women Techmakers Goiânia](https://www.instagram.com/wtmgoiania/) | O programa Women Techmakers do Google oferece visibilidade, comunidade e recursos para mulheres em tecnologia.      |
+| [GDG- Google Developers Group Goiânia](https://gdg.community.dev/gdg-goiania/)) | Comunidade de desenvolvedores vinculada (não institucional) ao programa de comunidades do Google Developers Group      |
 
 ## Streamers
 
