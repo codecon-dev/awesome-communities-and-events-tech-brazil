@@ -16,9 +16,14 @@
 | Nome                                         | Data  | Local  | Categorias               |Call4paper               |
 | -------------------------------------------- | ----- | ------ | ------------------------- |------------------------- |
 |[Conferência CSS Brasil 2023 + Code In The Dark](https://www.sympla.com.br/evento/conferencia-css-brasil-2023-code-in-the-dark/1759146)|21 de janeiro|São Paulo, SP|Front-end, CSS, Code In The Dark| Encerrado |
+|[DevOpsDays Goiânia 2023](https://www.sympla.com.br/evento/devopsdays-goiania-2023/1836174)|3 e 4 de março|Goiânia, GO|Operações de infraestrutura de TI, testes de software, segurança| [Aqui](https://www.papercall.io/devopsdaysgyn2023) |
+|[Tosconf](https://tosconf.lhc.net.br/)18 de março|Campinas, SP|Palestras, oficinas, tutoriais e outras atividades paralelas| [Aqui](https://tosconf.lhc.net.br/#chamada-de-trabalhos) |
 |[DevRelCon LATAM 2023](https://latam-2023.devrelcon.dev/)|9 e 10 de fevereiro|Digital|DevRel, Comunidades, Community Manager|Encerrado|
 | [IWD Cerrado 2023](https://www.iwdcerrado.com.br/) | 15 de abril | Goiânia, GO |Tecnologias, Carreira, networking, Workshops, Keynotes| [Aqui](https://forms.gle/CvVJCLExkCMZZQNx8) |
+| [Bsides Vitória](http://bsides.vix.br/) | 06 de maio | Vitória, ES |Segurança da informação, cultura hacker, conferência| [Aqui](https://docs.google.com/forms/d/e/1FAIpQLSf1IMthyjyM0wUyvARS2W0l2JIatKRyR1ZK0_APjk6qOmX1Sw/viewform) |
+| [You sh0t the Sheriff 15](https://www.ysts.org/) | 29 de maio | São Paulo, SP |Segurança da informação, networking, ambiente informal, ifluentes do setor de segurança| [Aqui](https://docs.google.com/forms/d/e/1FAIpQLSfRHbuSvyJZ03G09Q5KtDGOCL0ttdBdmd5ZGcJI6e_RaKJClA/viewform) |
 | [Codecon Digital](https://codecon.dev/) | 22 e 23 de junho | Online |Tecnologias, Carreira, Gamificação, Desafios, Hackathon, Fish bowl| [Aqui](https://tally.so/r/w8NDPA) |
+| [Roadsec 2023](https://www.roadsec.com.br/) | 15 de julho | São Paulo, SP |Festival Hacker, Ataque, Defesa, Front End, Back End, Hardware, Data Science, Cloud e Privacidade| [Aqui](https://www.roadsec.com.br/call-for-papers) |
 | [Codecon Summit](https://codecon.dev/) | 25 e 26 de agosto | Joinville, SC |Tecnologias, Carreira, Hackathon de projetos desnecessários, Fish bowl, Meet&Cookies| [Aqui](https://tally.so/r/w5X0GM) |
 | [Codecon Feature](https://codecon.dev/) | 28 de outubro | Florianópolis, SC |Rodas de discussão, Architectural Kata, fish bowl, seções de desconferência, Workshops de hábitos, Keynotes internacionais| [Aqui](https://tally.so/r/mDqOJb) |
 
