@@ -44,6 +44,7 @@
 | [DevsNorte](https://t.me/devsnorte) | Uma das maiores comunidades de tecnologia da região Norte. Fundada em Belém do Pará, mas com pessoas de todo o mundo! Prontos para lhe ajudar a progredir na sua carreira. |
 | [Feministech](https://twitter.com/feminis_tech?lang=pt) | A Feministech é um grupo de pessoas que se identificam no feminino e não-bináries que produzem, consomem e compartilham conteúdo sobre tecnologia, enquanto constroem uma comunidade diversa e inclusiva.            |
 | [Front-end Brasil](https://github.com/frontendbr) | O mundo frontender dentro do Github 🍺    |
+| [GDG - Google Developers Group Goiânia](https://gdg.community.dev/gdg-goiania/) | Comunidade de desenvolvedores vinculada (não institucional) ao programa de comunidades do Google Developers Group      |
 | [Grupy-SP](https://www.meetup.com/Grupy-SP/) | Grupo de usuários Python do Estado de São Paulo.    |
 | [GURU-SP](https://www.meetup.com/Guru-SP-Grupo-de-Usuarios-Ruby-de-Sao-Paulo/) | Grupo de Usuários Ruby de São Paulo    |
 | [Hack Club Brasil](https://brasil.hackclub.com) | Operação brasileira do Hack Club, uma rede global sem fins lucrativos de jovens makers e clubes de programação liderados por estudantes, onde jovens criam projetos e se desenvolvem para pensar grande e criar impacto com tecnologia no mundo.    |
@@ -65,7 +66,6 @@
 | [Universidade Brasileira Livre](https://github.com/Universidade-Livre) | A Universidade Brasileira Livre é um projeto sem fins lucrativos que organiza o conteúdo online em pt-BR para aumentar o acesso de Brasileiros a educação! |
 | [WoMakersCode](https://womakerscode.org/) | Somos a maior comunidade de mulheres na tecnologia da América Latina            |
 | [Women Techmakers Goiânia](https://www.instagram.com/wtmgoiania/) | O programa Women Techmakers do Google oferece visibilidade, comunidade e recursos para mulheres em tecnologia.      |
-| [GDG- Google Developers Group Goiânia](https://gdg.community.dev/gdg-goiania/) | Comunidade de desenvolvedores vinculada (não institucional) ao programa de comunidades do Google Developers Group      |
 
 ## Streamers
 
