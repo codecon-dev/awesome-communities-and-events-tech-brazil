@@ -19,10 +19,11 @@
 | -------------------------------------------- | ----- | ------ | ------------------------- |------------------------- |
 |[Conferência CSS Brasil 2023 + Code In The Dark](https://www.sympla.com.br/evento/conferencia-css-brasil-2023-code-in-the-dark/1759146)|21 de janeiro|São Paulo, SP|Front-end, CSS, Code In The Dark| Encerrado |
 |[DevRelCon LATAM 2023](https://latam-2023.devrelcon.dev/)|9 e 10 de fevereiro|Digital|DevRel, Comunidades, Community Manager|Encerrado|
+| [IWD Cerrado 2023](https://www.iwdcerrado.com.br/) | 15 de abril | Goiânia, GO |Tecnologias, Carreira, networking, Workshops, Keynotes| [Aqui](https://forms.gle/CvVJCLExkCMZZQNx8) |
 | [Codecon Digital](https://codecon.dev/) | 22 e 23 de junho | Online |Tecnologias, Carreira, Gamificação, Desafios, Hackathon, Fish bowl| [Aqui](https://tally.so/r/w8NDPA) |
 | [Codecon Summit](https://codecon.dev/) | 25 e 26 de agosto | Joinville, SC |Tecnologias, Carreira, Hackathon de projetos desnecessários, Fish bowl, Meet&Cookies| [Aqui](https://tally.so/r/w5X0GM) |
 | [Codecon Feature](https://codecon.dev/) | 28 de outubro | Florianópolis, SC |Rodas de discussão, Architectural Kata, fish bowl, seções de desconferência, Workshops de hábitos, Keynotes internacionais| [Aqui](https://tally.so/r/mDqOJb) |
-| [IWD Cerrado 2023](https://www.iwdcerrado.com.br/) | 15 de abril | Goiânia, GO |Tecnologias, Carreira, networking, Workshops, Keynotes| [Aqui](https://forms.gle/CvVJCLExkCMZZQNx8) |
+
 
 ## Comunidades
 
@@ -49,6 +50,7 @@
 | [Quebradev](https://quebra.dev/) | Um movimento social que tem como objetivo democratizar a informação para a periferia.    |
 | [R-Ladies](https://rladies.org/brazil-rladies/) | R-Ladies é uma organização mundial que promove a diversidade de gênero na comunidade R. |
 | [System Design Brasil](https://twitter.com/systemdesignbr) | Comunidade brasileira com foco em discussões sobre System Design    |
+| [TabNews](https://www.tabnews.com.br/) | Publicações de conteúdos de valor concreto para quem trabalha com tecnologia |
 | [Todas as Letras](https://www.todasasletras.org) | Inserimos talentos LGBTI+ na área de tecnologia.            |
 | [Universidade Brasileira Livre](https://github.com/Universidade-Livre) | A Universidade Brasileira Livre é um projeto sem fins lucrativos que organiza o conteúdo online em pt-BR para aumentar o acesso de Brasileiros a educação! |
 | [WoMakersCode](https://womakerscode.org/) | Somos a maior comunidade de mulheres na tecnologia da América Latina            |
