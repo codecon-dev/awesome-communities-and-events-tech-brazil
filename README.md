@@ -59,6 +59,8 @@
 | [WoMakersCode](https://womakerscode.org/) | Somos a maior comunidade de mulheres na tecnologia da América Latina            |
 | [Women Techmakers Goiânia](https://www.instagram.com/wtmgoiania/) | O programa Women Techmakers do Google oferece visibilidade, comunidade e recursos para mulheres em tecnologia.      |
 | [GDG- Google Developers Group Goiânia](https://gdg.community.dev/gdg-goiania/) | Comunidade de desenvolvedores vinculada (não institucional) ao programa de comunidades do Google Developers Group      |
+| [OsProgramadores](https://osprogramadores.com/) | Grupo para incentivar o aprendizado de programação.      |
+| [Programando na Gringa for Everyone](https://t.me/programandonagringa) | Este grupo é sobre Trabalho de Programadores(as) e TI no Exterior. Ele foi criado pra todas as pessoas que não se sentem à vontade em outros grupos e foruns: mulheres, novatos na área, etc.      |
 
 ## Streamers
 
