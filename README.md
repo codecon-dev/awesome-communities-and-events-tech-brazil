@@ -13,8 +13,6 @@
 
 ## Eventos 2023
 
-### Tecnologia (sem linguagem definida)
-
 | Nome                                         | Data  | Local  | Categorias               |Call4paper               |
 | -------------------------------------------- | ----- | ------ | ------------------------- |------------------------- |
 |[Conferência CSS Brasil 2023 + Code In The Dark](https://www.sympla.com.br/evento/conferencia-css-brasil-2023-code-in-the-dark/1759146)|21 de janeiro|São Paulo, SP|Front-end, CSS, Code In The Dark| Encerrado |
