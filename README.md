@@ -45,11 +45,13 @@
 | [He4rt Developers](https://heartdevs.com) | A He4rt Developers foi criada com o intuito de guiar quem deseja iniciar na área da programação.    |
 | [Kalify Community](https://discord.gg/jhSepmE7nN) |  Discord oficial da comunidade brasileira de desenvolvimento e programação! |
 | [Kotlinautas](https://kotlinautas.dev) | A Kotlinautas é uma comunidade que busca produzir e divulgar conteúdo sobre a linguagem Kotlin completamente em Português. Em forma de lives, artigos, cursos, vídeos e etc.    |
+| [OsProgramadores](https://osprogramadores.com/) | Grupo para incentivar o aprendizado de programação.      |
 | [perifaCode](https://perifacode.com) | A comunidade de tecnologia de quem é de periferia.    |
 | [PHP Com Rapadura](https://phpcomrapadura.org/) | Grupo de desenvolvedores PHP do Ceará, formados através de uma ligação doce, como a rapadura e o café.    |
 | [PHP Santa Catarina](https://twitter.com/PHP_SC) | O Grupo de Usuários de PHP do Estado de Santa Catarina (PHPSC) é uma entidade aberta de profissionais da área de TI criada em 2007.    |
 | [PHPSP](https://phpsp.org.br) | Grupo de desenvolvedores PHP do estado de São Paulo    |
 | [PyLadies](http://brasil.pyladies.com) | Uma comunidade mundial que foi trazida ao Brasil com o propósito de instigar mais mulheres a entrarem na área tecnológica    |
+| [Programando na Gringa for Everyone](https://t.me/programandonagringa) | Este grupo é sobre Trabalho de Programadores(as) e TI no Exterior. Ele foi criado pra todas as pessoas que não se sentem à vontade em outros grupos e foruns: mulheres, novatos na área, etc.      |
 | [Quebradev](https://quebra.dev/) | Um movimento social que tem como objetivo democratizar a informação para a periferia.    |
 | [R-Ladies](https://rladies.org/brazil-rladies/) | R-Ladies é uma organização mundial que promove a diversidade de gênero na comunidade R. |
 | [System Design Brasil](https://twitter.com/systemdesignbr) | Comunidade brasileira com foco em discussões sobre System Design    |
@@ -59,8 +61,6 @@
 | [WoMakersCode](https://womakerscode.org/) | Somos a maior comunidade de mulheres na tecnologia da América Latina            |
 | [Women Techmakers Goiânia](https://www.instagram.com/wtmgoiania/) | O programa Women Techmakers do Google oferece visibilidade, comunidade e recursos para mulheres em tecnologia.      |
 | [GDG- Google Developers Group Goiânia](https://gdg.community.dev/gdg-goiania/) | Comunidade de desenvolvedores vinculada (não institucional) ao programa de comunidades do Google Developers Group      |
-| [OsProgramadores](https://osprogramadores.com/) | Grupo para incentivar o aprendizado de programação.      |
-| [Programando na Gringa for Everyone](https://t.me/programandonagringa) | Este grupo é sobre Trabalho de Programadores(as) e TI no Exterior. Ele foi criado pra todas as pessoas que não se sentem à vontade em outros grupos e foruns: mulheres, novatos na área, etc.      |
 
 ## Streamers
 
