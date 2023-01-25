@@ -55,7 +55,7 @@
 | [Universidade Brasileira Livre](https://github.com/Universidade-Livre) | A Universidade Brasileira Livre é um projeto sem fins lucrativos que organiza o conteúdo online em pt-BR para aumentar o acesso de Brasileiros a educação! |
 | [WoMakersCode](https://womakerscode.org/) | Somos a maior comunidade de mulheres na tecnologia da América Latina            |
 | [Women Techmakers Goiânia](https://www.instagram.com/wtmgoiania/) | O programa Women Techmakers do Google oferece visibilidade, comunidade e recursos para mulheres em tecnologia.      |
-| [GDG- Google Developers Group Goiânia](https://gdg.community.dev/gdg-goiania/)) | Comunidade de desenvolvedores vinculada (não institucional) ao programa de comunidades do Google Developers Group      |
+| [GDG- Google Developers Group Goiânia](https://gdg.community.dev/gdg-goiania/) | Comunidade de desenvolvedores vinculada (não institucional) ao programa de comunidades do Google Developers Group      |
 
 ## Streamers
 
