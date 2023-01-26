@@ -29,7 +29,7 @@
 | [Codecon Summit](https://codecon.dev/) | 25 e 26 de agosto | Joinville, SC |Tecnologias, Carreira, Hackathon de projetos desnecessários, Fish bowl, Meet&Cookies| [Aqui](https://tally.so/r/w5X0GM) |
 | [TDC Business](https://thedevconf.com/tdc/2023/index.html) | 19 a 21 de setembro | São Paulo e Online |Tecnologia, Palestras, Trilhas| Não aberto ainda |
 | [Gophercon Brasil 2023](https://gopherconbr.org/) | 22 e 23 de setembro | Florianópolis, SC | Go, Conferência | Não aberto ainda |
-| [Codecon Feature](https://codecon.dev/) | 28 de outubro | Florianópolis, SC |Rodas de discussão, Architectural Kata, fish bowl, seções de desconferência, Workshops de hábitos, Keynotes internacionais| [Aqui](https://tally.so/r/mDqOJb) |
+| [Codecon Feature](https://codecon.dev/) | 28 de outubro | Florianópolis, SC |Rodas de discussão, Architectural Kata, fish bowl, seções de desconferência, Workshops de hábitos, Keynotes internacionais| Não possui |
 | [TDC Future](https://thedevconf.com/tdc/2023/index.html) | 05 a 07 de dezembro | Porto Alegre e Online |Tecnologia, Palestras, Trilhas| Não aberto ainda |
 | [PHP Conference Brasil 2023](https://phpconference.com.br/) | 07 a 09 de dezembro | Porto Alegre e Online |PHP, Palestras, Tutoriais, Híbrido| [Aqui](https://phpconference.com.br/callforpapers/) |
 
