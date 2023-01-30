@@ -16,11 +16,11 @@
 | Nome                                         | Data  | Local  | Categorias               |Call4paper               |
 | -------------------------------------------- | ----- | ------ | ------------------------- |------------------------- |
 |[Conferência CSS Brasil 2023 + Code In The Dark](https://www.sympla.com.br/evento/conferencia-css-brasil-2023-code-in-the-dark/1759146)|21 de janeiro|São Paulo, SP|Front-end, CSS, Code In The Dark| Encerrado |
+|[DevRelCon LATAM 2023](https://latam-2023.devrelcon.dev/)|9 e 10 de fevereiro|Digital|DevRel, Comunidades, Community Manager|Encerrado|
 |[DevOpsDays Goiânia 2023](https://www.sympla.com.br/evento/devopsdays-goiania-2023/1836174)|3 e 4 de março|Goiânia, GO|Operações de infraestrutura de TI, testes de software, segurança| [Aqui](https://www.papercall.io/devopsdaysgyn2023) |
 |[Tosconf](https://tosconf.lhc.net.br/)|18 de março|Campinas, SP|Palestras, oficinas, tutoriais e outras atividades paralelas| [Aqui](https://tosconf.lhc.net.br/#chamada-de-trabalhos) |
-|[DevRelCon LATAM 2023](https://latam-2023.devrelcon.dev/)|9 e 10 de fevereiro|Digital|DevRel, Comunidades, Community Manager|Encerrado|
-| [IWD Cerrado 2023](https://www.iwdcerrado.com.br/) | 15 de abril | Goiânia, GO |Tecnologias, Carreira, networking, Workshops, Keynotes| [Aqui](https://forms.gle/CvVJCLExkCMZZQNx8) |
 | [TDC Connections](https://thedevconf.com/tdc/2023/connections/) | 22 a 24 de março | Recife, Belo Horizonte e Online |Tecnologia, Palestras, Trilhas| [Aqui](https://thedevconf.com/call4papers) |
+| [IWD Cerrado 2023](https://www.iwdcerrado.com.br/) | 15 de abril | Goiânia, GO |Tecnologias, Carreira, networking, Workshops, Keynotes| [Aqui](https://forms.gle/CvVJCLExkCMZZQNx8) |
 | [Bsides Vitória](http://bsides.vix.br/) | 06 de maio | Vitória, ES |Segurança da informação, cultura hacker, conferência| [Aqui](https://docs.google.com/forms/d/e/1FAIpQLSf1IMthyjyM0wUyvARS2W0l2JIatKRyR1ZK0_APjk6qOmX1Sw/viewform) |
 | [You sh0t the Sheriff 15](https://www.ysts.org/) | 29 de maio | São Paulo, SP |Segurança da informação, networking, ambiente informal, ifluentes do setor de segurança| [Aqui](https://docs.google.com/forms/d/e/1FAIpQLSfRHbuSvyJZ03G09Q5KtDGOCL0ttdBdmd5ZGcJI6e_RaKJClA/viewform) |
 | [TDC Innovation](https://thedevconf.com/tdc/2023/index.html) | 14 a 16 de junho | Florianópolis e Online |Tecnologia, Palestras, Trilhas| Não aberto ainda |
