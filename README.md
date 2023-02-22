@@ -27,6 +27,7 @@
 | [TDC Innovation](https://thedevconf.com/tdc/2023/index.html) | 14 a 16 de junho | Florianópolis e Online |Tecnologia, Palestras, Trilhas| Não aberto ainda |
 | [Codecon Digital](https://codecon.dev/) | 22 e 23 de junho | Online |Tecnologias, Carreira, Gamificação, Desafios, Hackathon, Fish bowl| [Aqui](https://tally.so/r/w8NDPA) |
 | [Roadsec 2023](https://www.roadsec.com.br/) | 15 de julho | São Paulo, SP |Festival Hacker, Ataque, Defesa, Front End, Back End, Hardware, Data Science, Cloud e Privacidade| [Aqui](https://www.roadsec.com.br/call-for-papers) |
+| [RS/XP](https://www.rocketseat.com.br/eventos/rsxp) | Data a confirmar - Julho | São Paulo, SP |Evento de tecnologia, educação e inovação que vai reunir a comunidade dev em São Paulo durante 2 dias para uma experiência única, imersiva e transformadora.| Não possui |
 | [Codecon Summit](https://codecon.dev/) | 25 e 26 de agosto | Joinville, SC |Tecnologias, Carreira, Hackathon de projetos desnecessários, Fish bowl, Meet&Cookies| [Aqui](https://tally.so/r/w5X0GM) |
 | [TDC Business](https://thedevconf.com/tdc/2023/index.html) | 19 a 21 de setembro | São Paulo e Online |Tecnologia, Palestras, Trilhas| Não aberto ainda |
 | [Gophercon Brasil 2023](https://gopherconbr.org/) | 22 e 23 de setembro | Florianópolis, SC | Go, Conferência | Não aberto ainda |
