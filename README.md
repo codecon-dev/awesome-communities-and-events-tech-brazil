@@ -62,6 +62,7 @@
 | [Programando na Gringa for Everyone](https://t.me/programandonagringa) | Este grupo é sobre Trabalho de Programadores(as) e TI no Exterior. Ele foi criado pra todas as pessoas que não se sentem à vontade em outros grupos e foruns: mulheres, novatos na área, etc.      |
 | [Quebradev](https://quebra.dev/) | Um movimento social que tem como objetivo democratizar a informação para a periferia.    |
 | [R-Ladies](https://rladies.org/brazil-rladies/) | R-Ladies é uma organização mundial que promove a diversidade de gênero na comunidade R. |
+| [Rocketseat](https://discord.com/invite/rocketseat) | A maior comunidade de devs da América Latina, completa para você impulsionar sua evolução, independente do seu nível. 💜 |
 | [System Design Brasil](https://twitter.com/systemdesignbr) | Comunidade brasileira com foco em discussões sobre System Design    |
 | [TabNews](https://www.tabnews.com.br/) | Publicações de conteúdos de valor concreto para quem trabalha com tecnologia |
 | [Todas as Letras](https://www.todasasletras.org) | Inserimos talentos LGBTI+ na área de tecnologia.            |
@@ -73,6 +74,7 @@
 
 | Nome                                         | Descrição                                                                    |
 | -------------------------------------------- | ---------------------------------------------------------------------------- |
+| [birobirobiro](https://www.twitch.tv/birobirobiro) | Front-end Developer & Developer Instructor na Rocketseat. Crio conteúdos nas redes sociais e faço lives na Twitch desenvolvendo projetos pessoais e desafios da comunidade dev.  |
 | [Código Falado](https://www.twitch.tv/codigofalado) | Código Falado é o primeiro Twitch Partner de Live Coding do Brasil! Somos uma comunidade onde todo mundo é Dev JUNIOR. Criaremos projetos ao vivo do zero à publicação, passando por todas as etapas. Programando, aprendendo e errando juntos!    |
 | [Daniel He4rt](https://www.twitch.tv/danielhe4rt) | Desenvolvedor com alguns anos de experiência desenvolvendo aplicações com PHP e Laravel. No tempo livre, streamer com conteúdo sobre programação e criador/mentor do projeto He4rt Developers, uma comunidade de devs que incita novos programadores a ensinar e colaborar em projetos abertos.    |
 | [Pachi Codes](https://www.twitch.tv/pachicodes) | Moça de DevRel e co-fundadora da @feministech 💌    |
