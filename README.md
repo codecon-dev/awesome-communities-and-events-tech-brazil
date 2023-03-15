@@ -17,24 +17,24 @@
 | -------------------------------------------- | ----- | ------ | ------------------------- |------------------------- |
 |[Conferência CSS Brasil 2023 + Code In The Dark](https://www.sympla.com.br/evento/conferencia-css-brasil-2023-code-in-the-dark/1759146)|21 de janeiro|São Paulo, SP|Front-end, CSS, Code In The Dark| Encerrado |
 |[DevRelCon LATAM 2023](https://latam-2023.devrelcon.dev/)|9 e 10 de fevereiro|Digital|DevRel, Comunidades, Community Manager|Encerrado|
-|[DevOpsDays Goiânia 2023](https://www.sympla.com.br/evento/devopsdays-goiania-2023/1836174)|3 e 4 de março|Goiânia, GO|Operações de infraestrutura de TI, testes de software, segurança| [Aqui](https://www.papercall.io/devopsdaysgyn2023) |
-|[Tosconf](https://tosconf.lhc.net.br/)|18 de março|Campinas, SP|Palestras, oficinas, tutoriais e outras atividades paralelas| [Aqui](https://tosconf.lhc.net.br/#chamada-de-trabalhos) |
-| [TDC Connections](https://thedevconf.com/tdc/2023/connections/) | 22 a 24 de março | Recife, Belo Horizonte e Online |Tecnologia, Palestras, Trilhas| [Aqui](https://thedevconf.com/call4papers) |
+|[DevOpsDays Goiânia 2023](https://www.sympla.com.br/evento/devopsdays-goiania-2023/1836174)|3 e 4 de março|Goiânia, GO|Operações de infraestrutura de TI, testes de software, segurança| Encerrado |
+|[Tosconf](https://tosconf.lhc.net.br/)|18 de março|Campinas, SP|Palestras, oficinas, tutoriais e outras atividades paralelas| Encerrado |
+| [TDC Connections](https://thedevconf.com/tdc/2023/connections/) | 22 a 24 de março | Recife, Belo Horizonte e Online |Tecnologia, Palestras, Trilhas| Encerrado |
 | [IWD Cerrado 2023](https://www.iwdcerrado.com.br/) | 15 de abril | Goiânia, GO |Tecnologias, Carreira, networking, Workshops, Keynotes| [Aqui](https://forms.gle/CvVJCLExkCMZZQNx8) |
 | [CityJS](https://dev.events/conferences/city-js-sao-paulo-sao-paulo-3-2023) | 24 a 26 de abril | São Paulo, SP| JavaScript, Tecnologia, Palestra | [Aqui](https://docs.google.com/forms/d/e/1FAIpQLSdnKmSMwtbzNZfIf0u124bHG0MXOlDwESex32jVZ9d9kZS3YA/viewform) |
 | [Bsides Vitória](http://bsides.vix.br/) | 06 de maio | Vitória, ES |Segurança da informação, cultura hacker, conferência| [Aqui](https://docs.google.com/forms/d/e/1FAIpQLSf1IMthyjyM0wUyvARS2W0l2JIatKRyR1ZK0_APjk6qOmX1Sw/viewform) |
 | [You sh0t the Sheriff 15](https://www.ysts.org/) | 29 de maio | São Paulo, SP |Segurança da informação, networking, ambiente informal, ifluentes do setor de segurança| [Aqui](https://docs.google.com/forms/d/e/1FAIpQLSfRHbuSvyJZ03G09Q5KtDGOCL0ttdBdmd5ZGcJI6e_RaKJClA/viewform) |
-| [TDC Innovation](https://thedevconf.com/tdc/2023/index.html) | 14 a 16 de junho | Florianópolis e Online |Tecnologia, Palestras, Trilhas| Não aberto ainda |
+| [TDC Innovation](https://thedevconf.com/tdc/2023/index.html) | 14 a 16 de junho | Florianópolis e Online |Tecnologia, Palestras, Trilhas| [Aqui](https://thedevconf.com/call4papers) |
 | [Codecon Digital](https://codecon.dev/) | 22 e 23 de junho | Online |Tecnologias, Carreira, Gamificação, Desafios, Hackathon, Fish bowl| [Aqui](https://tally.so/r/w8NDPA) |
 | [Roadsec 2023](https://www.roadsec.com.br/) | 15 de julho | São Paulo, SP |Festival Hacker, Ataque, Defesa, Front End, Back End, Hardware, Data Science, Cloud e Privacidade| [Aqui](https://www.roadsec.com.br/call-for-papers) |
 | [RS/XP](https://www.rocketseat.com.br/eventos/rsxp) | 30 de Junho à 01 de Julho | São Paulo, SP |Evento de tecnologia, educação e inovação que vai reunir a comunidade dev em São Paulo durante 2 dias para uma experiência única, imersiva e transformadora.| Não possui |
 | [DevLeaders Conference](https://www.devleaders.com.br/) | 11 de agosto | São Paulo, SP |Liderança, Stacks, Gestão tech, Tendências, Networking| Não possui |
 | [Codecon Summit](https://codecon.dev/) | 25 e 26 de agosto | Joinville, SC |Tecnologias, Carreira, Hackathon de projetos desnecessários, Fish bowl, Meet&Cookies| [Aqui](https://tally.so/r/w5X0GM) |
-| [TDC Business](https://thedevconf.com/tdc/2023/index.html) | 19 a 21 de setembro | São Paulo e Online |Tecnologia, Palestras, Trilhas| Não aberto ainda |
+| [TDC Business](https://thedevconf.com/tdc/2023/index.html) | 19 a 21 de setembro | São Paulo e Online |Tecnologia, Palestras, Trilhas| [Aqui](https://thedevconf.com/call4papers) |
 | [Gophercon Brasil 2023](https://gopherconbr.org/) | 22 e 23 de setembro | Florianópolis, SC | Go, Conferência | Não aberto ainda |
 | [Codecon Feature](https://codecon.dev/) | 28 de outubro | Florianópolis, SC |Rodas de discussão, Architectural Kata, fish bowl, seções de desconferência, Workshops de hábitos, Keynotes internacionais| Não possui |
 | [Python Brasil 2023](https://2023.pythonbrasil.org.br/) | 30 de outubro a 05 de novembro | Caxias do Sul, RS | Python, Tecnologia, Palestras |  Não aberto ainda |
-| [TDC Future](https://thedevconf.com/tdc/2023/index.html) | 05 a 07 de dezembro | Porto Alegre e Online |Tecnologia, Palestras, Trilhas| Não aberto ainda |
+| [TDC Future](https://thedevconf.com/tdc/2023/index.html) | 05 a 07 de dezembro | Porto Alegre e Online |Tecnologia, Palestras, Trilhas| [Aqui](https://thedevconf.com/call4papers) |
 | [PHP Conference Brasil 2023](https://phpconference.com.br/) | 07 a 09 de dezembro | Porto Alegre e Online |PHP, Palestras, Tutoriais, Híbrido| [Aqui](https://phpconference.com.br/callforpapers/) |
 
 ## Comunidades
