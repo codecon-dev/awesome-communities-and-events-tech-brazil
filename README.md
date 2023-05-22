@@ -30,7 +30,7 @@
 | [TDC Innovation](https://thedevconf.com/tdc/2023/index.html) | 14 a 16 de junho | Florianópolis e Online |Tecnologia, Palestras, Trilhas| Encerrado |
 | [Women in Data Science](https://www.sympla.com.br/evento/women-in-data-science/1962941) | 15 de junho | São Paulo, SP | Data Science, Mulheres | Não possui |
 | [Codecon Digital](https://codecon.dev/) | 22 e 23 de junho | Online |Tecnologias, Carreira, Gamificação, Desafios, Hackathon, Fish bowl| Encerrado |
-| [RS/XP](https://www.rocketseat.com.br/eventos/rsxp) | 30 de Junho à 01 de Julho | São Paulo, SP |Evento de tecnologia, educação e inovação que vai reunir a comunidade dev em São Paulo durante 2 dias para uma experiência única, imersiva e transformadora.| [Aqui](https://docs.google.com/forms/d/e/1FAIpQLSeP3TrR3-GkHkcIp6NSSHuzl3pAqNbbV2XJahcGHNeP8tFW9A/viewform) |
+| [DevStack Summit](https://www.devstacksummit.com/) | 22 e 23 de junho | Online |Futuro, Habilidades profissionais, Code Skills| Encerrado |
 | [Roadsec 2023](https://www.roadsec.com.br/) | 15 de julho | São Paulo, SP |Festival Hacker, Ataque, Defesa, Front End, Back End, Hardware, Data Science, Cloud e Privacidade| [Aqui](https://www.roadsec.com.br/call-for-papers) |
 | [Minas Testing Conference](https://minastestingconference.com.br/) | 22 de julho | Online |Testes, Conferência| [Aqui](https://docs.google.com/forms/d/1Jde0jNtlexyT703CSLcVHGNotm1PIUf_m5pdrKFB1Ls/viewform?edit_requested=true) |
 | [Campus Party BR](https://brasil.campus-party.org/cpbr15/) | 25 a 30 de julho | São Paulo, SP |Tecnologia, Campuseiros, Games, Cultura Geek| Não possui |
