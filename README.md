@@ -39,7 +39,7 @@
 | [TDC Business](https://thedevconf.com/tdc/2023/index.html) | 19 a 21 de setembro | São Paulo e Online |Tecnologia, Palestras, Trilhas| [Aqui](https://thedevconf.com/call4papers) |
 | [Gophercon Brasil 2023](https://gopherconbr.org/) | 22 e 23 de setembro | Florianópolis, SC | Go, Conferência | Não aberto ainda |
 | [Codecon Feature](https://codecon.dev/) | 28 de outubro | Florianópolis, SC |Rodas de discussão, Architectural Kata, fish bowl, seções de desconferência, Workshops de hábitos, Keynotes internacionais| Não possui |
-| [Python Brasil 2023](https://2023.pythonbrasil.org.br/) | 30 de outubro a 05 de novembro | Caxias do Sul, RS | Python, Tecnologia, Palestras |  Não aberto ainda |
+| [Python Brasil 2023](https://2023.pythonbrasil.org.br/) | 30 de outubro a 05 de novembro | Caxias do Sul, RS | Python, Tecnologia, Palestras |  [Aqui](https://pretalx.com/python-brasil-2023/) |
 | [TDC Future](https://thedevconf.com/tdc/2023/index.html) | 05 a 07 de dezembro | Porto Alegre e Online |Tecnologia, Palestras, Trilhas| [Aqui](https://thedevconf.com/call4papers) |
 | [PHP Conference Brasil 2023](https://phpconference.com.br/) | 07 a 09 de dezembro | Porto Alegre e Online |PHP, Palestras, Tutoriais, Híbrido| [Aqui](https://phpconference.com.br/callforpapers/) |
 
