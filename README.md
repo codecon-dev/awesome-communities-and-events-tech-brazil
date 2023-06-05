@@ -54,7 +54,7 @@
 | [Backend Brasil](https://github.com/backend-br/) |  Página oficial da comunidade brasileira de backenders!. |
 | [Brazilians in Tech](https://braziliansintech.com) |  A Brazilians in Tech é um espaço para conectar, encorajar e empoderar brasileiras estudando e trabalhando nas áreas de Ciência, Tecnologia, Computação e Engenharia. |
 | [DevsNorte](https://t.me/devsnorte) | Uma das maiores comunidades de tecnologia da região Norte. Fundada em Belém do Pará, mas com pessoas de todo o mundo! Prontos para lhe ajudar a progredir na sua carreira. |
-| [Feministech](https://twitter.com/feminis_tech?lang=pt) | A Feministech é um grupo de pessoas que se identificam no feminino e não-bináries que produzem, consomem e compartilham conteúdo sobre tecnologia, enquanto constroem uma comunidade diversa e inclusiva.            |
+| [Feministech](https://feministech.com.br/) | A Feministech é uma comunidade feminista de pessoas trans, não-binárias e mulheres cis que produzem, consomem e compartilham conteúdo sobre tecnologia, enquanto constroem uma comunidade diversa e inclusiva.            |
 | [Front-end Brasil](https://github.com/frontendbr) | O mundo frontender dentro do Github 🍺    |
 | [GDG - Google Developers Group Goiânia](https://gdg.community.dev/gdg-goiania/) | Comunidade de desenvolvedores vinculada (não institucional) ao programa de comunidades do Google Developers Group      |
 | [GitHub Open Source Community Florianópolis](https://www.instagram.com/githubopensource.floripa/) | Comunidade do GitHub Brasil sobre Open Source em Florianópolis/SC. |
