@@ -57,6 +57,10 @@
 | [Feministech](https://twitter.com/feminis_tech?lang=pt) | A Feministech é um grupo de pessoas que se identificam no feminino e não-bináries que produzem, consomem e compartilham conteúdo sobre tecnologia, enquanto constroem uma comunidade diversa e inclusiva.            |
 | [Front-end Brasil](https://github.com/frontendbr) | O mundo frontender dentro do Github 🍺    |
 | [GDG - Google Developers Group Goiânia](https://gdg.community.dev/gdg-goiania/) | Comunidade de desenvolvedores vinculada (não institucional) ao programa de comunidades do Google Developers Group      |
+| [GitHub Open Source Community Florianópolis](https://www.instagram.com/githubopensource.floripa/) | Comunidade do GitHub Brasil sobre Open Source em Florianópolis/SC. |
+| [GitHub Open Source Community Fortaleza](https://twitter.com/ghcfortaleza/) | Comunidade do GitHub Brasil sobre Open Source em Fortaleza/CE. |
+| [GitHub Open Source Community Salvador](https://www.instagram.com/githubcomssa/) | Comunidade do GitHub Brasil sobre Open Source em Salvador/BA. |
+| [GitHub Open Source Community São Paulo](https://linktr.ee/ghcommunitysp) | Comunidade do GitHub Brasil sobre Open Source em São Paulo/SP. |
 | [Grupy-SP](https://www.meetup.com/Grupy-SP/) | Grupo de usuários Python do Estado de São Paulo.    |
 | [GURU-SP](https://www.meetup.com/Guru-SP-Grupo-de-Usuarios-Ruby-de-Sao-Paulo/) | Grupo de Usuários Ruby de São Paulo    |
 | [Hack Club Brasil](https://brasil.hackclub.com) | Operação brasileira do Hack Club, uma rede global sem fins lucrativos de jovens makers e clubes de programação liderados por estudantes, onde jovens criam projetos e se desenvolvem para pensar grande e criar impacto com tecnologia no mundo.    |
