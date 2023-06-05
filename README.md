@@ -39,6 +39,7 @@
 | [Codecon Summit](https://codecon.dev/) | 26 de agosto | Joinville, SC |Tecnologias, Carreira, Hackathon de projetos desnecessários, Fish bowl, Meet&Cookies| [Aqui](https://tally.so/r/w5X0GM) |
 | [TDC Business](https://thedevconf.com/tdc/2023/index.html) | 19 a 21 de setembro | São Paulo e Online |Tecnologia, Palestras, Trilhas| [Aqui](https://thedevconf.com/call4papers) |
 | [Gophercon Brasil 2023](https://gopherconbr.org/) | 22 e 23 de setembro | Florianópolis, SC | Go, Conferência | Não aberto ainda |
+| [Python Nordeste 2023](https://2023.pythonnordeste.org/) | 22 a 24 de setembro | Salvador, BA | Python | [Aqui](https://pretalx.com/python-nordeste-2023/cfp) |
 | [Codecon Feature](https://codecon.dev/) | 28 de outubro | Florianópolis, SC |Rodas de discussão, Architectural Kata, fish bowl, seções de desconferência, Workshops de hábitos, Keynotes internacionais| Não possui |
 | [Python Brasil 2023](https://2023.pythonbrasil.org.br/) | 30 de outubro a 05 de novembro | Caxias do Sul, RS | Python, Tecnologia, Palestras |  [Aqui](https://pretalx.com/python-brasil-2023/) |
 | [TDC Future](https://thedevconf.com/tdc/2023/index.html) | 05 a 07 de dezembro | Porto Alegre e Online |Tecnologia, Palestras, Trilhas| [Aqui](https://thedevconf.com/call4papers) |
@@ -53,9 +54,13 @@
 | [Backend Brasil](https://github.com/backend-br/) |  Página oficial da comunidade brasileira de backenders!. |
 | [Brazilians in Tech](https://braziliansintech.com) |  A Brazilians in Tech é um espaço para conectar, encorajar e empoderar brasileiras estudando e trabalhando nas áreas de Ciência, Tecnologia, Computação e Engenharia. |
 | [DevsNorte](https://t.me/devsnorte) | Uma das maiores comunidades de tecnologia da região Norte. Fundada em Belém do Pará, mas com pessoas de todo o mundo! Prontos para lhe ajudar a progredir na sua carreira. |
-| [Feministech](https://twitter.com/feminis_tech?lang=pt) | A Feministech é um grupo de pessoas que se identificam no feminino e não-bináries que produzem, consomem e compartilham conteúdo sobre tecnologia, enquanto constroem uma comunidade diversa e inclusiva.            |
+| [Feministech](https://feministech.com.br/) | A Feministech é uma comunidade feminista de pessoas trans, não-binárias e mulheres cis que produzem, consomem e compartilham conteúdo sobre tecnologia, enquanto constroem uma comunidade diversa e inclusiva.            |
 | [Front-end Brasil](https://github.com/frontendbr) | O mundo frontender dentro do Github 🍺    |
 | [GDG - Google Developers Group Goiânia](https://gdg.community.dev/gdg-goiania/) | Comunidade de desenvolvedores vinculada (não institucional) ao programa de comunidades do Google Developers Group      |
+| [GitHub Open Source Community Florianópolis](https://www.instagram.com/githubopensource.floripa/) | Comunidade do GitHub Brasil sobre Open Source em Florianópolis/SC. |
+| [GitHub Open Source Community Fortaleza](https://twitter.com/ghcfortaleza/) | Comunidade do GitHub Brasil sobre Open Source em Fortaleza/CE. |
+| [GitHub Open Source Community Salvador](https://www.instagram.com/githubcomssa/) | Comunidade do GitHub Brasil sobre Open Source em Salvador/BA. |
+| [GitHub Open Source Community São Paulo](https://linktr.ee/ghcommunitysp) | Comunidade do GitHub Brasil sobre Open Source em São Paulo/SP. |
 | [Grupy-SP](https://www.meetup.com/Grupy-SP/) | Grupo de usuários Python do Estado de São Paulo.    |
 | [GURU-SP](https://www.meetup.com/Guru-SP-Grupo-de-Usuarios-Ruby-de-Sao-Paulo/) | Grupo de Usuários Ruby de São Paulo    |
 | [Hack Club Brasil](https://brasil.hackclub.com) | Operação brasileira do Hack Club, uma rede global sem fins lucrativos de jovens makers e clubes de programação liderados por estudantes, onde jovens criam projetos e se desenvolvem para pensar grande e criar impacto com tecnologia no mundo.    |
