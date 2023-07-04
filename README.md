@@ -34,7 +34,7 @@
 | [Roadsec 2023](https://www.roadsec.com.br/) | 15 de julho | São Paulo, SP |Festival Hacker, Ataque, Defesa, Front End, Back End, Hardware, Data Science, Cloud e Privacidade| [Aqui](https://www.roadsec.com.br/call-for-papers) |
 | [Minas Testing Conference](https://minastestingconference.com.br/) | 22 de julho | Online |Testes, Conferência| [Aqui](https://docs.google.com/forms/d/1Jde0jNtlexyT703CSLcVHGNotm1PIUf_m5pdrKFB1Ls/viewform?edit_requested=true) |
 | [Campus Party BR](https://brasil.campus-party.org/cpbr15/) | 25 a 30 de julho | São Paulo, SP |Tecnologia, Campuseiros, Games, Cultura Geek| Não possui |
-| [FRONTIN Sampa 2023 + Code In The Dark]([https://brasil.campus-party.org/cpbr15/](https://www.eventbrite.com.ar/e/frontin-sampa-2023-code-in-the-dark-tickets-574922567877)) | 29 de julho | São Paulo, SP |Front-end, Code In The Dark, Programação| Não possui |
+| [FRONTIN Sampa 2023 + Code In The Dark](https://www.eventbrite.com.ar/e/frontin-sampa-2023-code-in-the-dark-tickets-574922567877) | 29 de julho | São Paulo, SP |Front-end, Code In The Dark, Programação| Não possui |
 | [DevLeaders Conference](https://www.devleaders.com.br/) | 11 de agosto | São Paulo, SP |Liderança, Stacks, Gestão tech, Tendências, Networking| Não possui |
 | [Codecon Summit](https://codecon.dev/) | 26 de agosto | Joinville, SC |Tecnologias, Carreira, Hackathon de projetos desnecessários, Fish bowl, Meet&Cookies| [Aqui](https://tally.so/r/w5X0GM) |
 | [TDC Business](https://thedevconf.com/tdc/2023/index.html) | 19 a 21 de setembro | São Paulo e Online |Tecnologia, Palestras, Trilhas| [Aqui](https://thedevconf.com/call4papers) |
