@@ -36,6 +36,7 @@
 | [Campus Party BR](https://brasil.campus-party.org/cpbr15/) | 25 a 30 de julho | São Paulo, SP |Tecnologia, Campuseiros, Games, Cultura Geek| Não possui |
 | [FRONTIN Sampa 2023 + Code In The Dark](https://www.eventbrite.com.ar/e/frontin-sampa-2023-code-in-the-dark-tickets-574922567877) | 29 de julho | São Paulo, SP |Front-end, Code In The Dark, Programação| Não possui |
 | [DevLeaders Conference](https://www.devleaders.com.br/) | 11 de agosto | São Paulo, SP |Liderança, Stacks, Gestão tech, Tendências, Networking| Não possui |
+| [DevOpsDays Rio de Janeiro 2023](https://devopsdays.org/events/2023-rio-de-janeiro/welcome/) | 19 de agosto | Rio de Janeiro, RJ | Operações de infraestrutura de TI, testes de software, segurança | Encerrado |
 | [Codecon Summit](https://codecon.dev/) | 26 de agosto | Joinville, SC |Tecnologias, Carreira, Hackathon de projetos desnecessários, Fish bowl, Meet&Cookies| [Aqui](https://tally.so/r/w5X0GM) |
 | [TDC Business](https://thedevconf.com/tdc/2023/index.html) | 19 a 21 de setembro | São Paulo e Online |Tecnologia, Palestras, Trilhas| [Aqui](https://thedevconf.com/call4papers) |
 | [Gophercon Brasil 2023](https://gopherconbr.org/) | 22 e 23 de setembro | Florianópolis, SC | Go, Conferência | Não aberto ainda |
@@ -49,7 +50,7 @@
 ## Comunidades
 
 | Nome                                         | Descrição                                                                    |
-| -------------------------------------------- | ---------------------------------------------------------------------------- 
+| -------------------------------------------- | ----------------------------------------------------------------------------
 | [Abacatinhos.dev](https://abacatinhos.dev/)| Uma oportunidade para pessoas interessadas na área de DevRel ou começando nela. Assim sendo, podemos bater um papo sobre a área, esclarecer dúvidas e criar um plano de ação em conjunto.|
 | [AfroPython](https://afropython.org/)| Um movimento sem fins lucrativos, atualmente composto por profissionais de TI, Marketing e Comunicação voluntários, e que promove ações e eventos de qualificação na área de TI e discute questões sobre negritude e tecnologia.|
 | [Backend Brasil](https://github.com/backend-br/) |  Página oficial da comunidade brasileira de backenders!. |
