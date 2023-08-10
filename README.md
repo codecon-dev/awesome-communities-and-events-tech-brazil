@@ -44,6 +44,7 @@
 | [PHP Community Summit 2023](https://php.locaweb.com.br/) | 28 e 29 de setembro | São Paulo e Online | PHP, Híbrido | Encerrado |
 | [Codecon Feature](https://codecon.dev/) | 28 de outubro | Florianópolis, SC |Rodas de discussão, Architectural Kata, fish bowl, seções de desconferência, Workshops de hábitos, Keynotes internacionais| Não possui |
 | [Python Brasil 2023](https://2023.pythonbrasil.org.br/) | 30 de outubro a 05 de novembro | Caxias do Sul, RS | Python, Tecnologia, Palestras |  [Aqui](https://pretalx.com/python-brasil-2023/) |
+| [Front in Floripa](https://frontin.floripa.br/) | 25 de novembro | Florianópolis, SC | Front-end, Networking, Javascript | [Aqui](https://frontin.floripa.br/callforpaper) |
 | [TDC Future](https://thedevconf.com/tdc/2023/index.html) | 05 a 07 de dezembro | Porto Alegre e Online |Tecnologia, Palestras, Trilhas| [Aqui](https://thedevconf.com/call4papers) |
 | [PHP Conference Brasil 2023](https://phpconference.com.br/) | 07 a 09 de dezembro | Porto Alegre e Online |PHP, Palestras, Tutoriais, Híbrido| [Aqui](https://phpconference.com.br/callforpapers/) |
 
