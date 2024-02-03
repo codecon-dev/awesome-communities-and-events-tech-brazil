@@ -7,46 +7,21 @@
 
 ## Sumário
 
-- [Eventos 2023](#eventos-2023)
+- [Eventos 2024](#eventos-2024)
 - [Comunidades](#comunidades)
 - [Streamers](#streamers)
+- Histórico
+  - [Eventos 2023](historico/2023.md)
 
-## Eventos 2023
+## Eventos 2024
 
-| Nome                                         | Data  | Local  | Categorias               |Call4paper               |
-| -------------------------------------------- | ----- | ------ | ------------------------- |------------------------- |
-|[Conferência CSS Brasil 2023 + Code In The Dark](https://www.sympla.com.br/evento/conferencia-css-brasil-2023-code-in-the-dark/1759146)|21 de janeiro|São Paulo, SP|Front-end, CSS, Code In The Dark| Encerrado |
-|[DevRelCon LATAM 2023](https://latam-2023.devrelcon.dev/)|9 e 10 de fevereiro|Digital|DevRel, Comunidades, Community Manager|Encerrado|
-|[DevOpsDays Goiânia 2023](https://www.sympla.com.br/evento/devopsdays-goiania-2023/1836174)|3 e 4 de março|Goiânia, GO|Operações de infraestrutura de TI, testes de software, segurança| Encerrado |
-|[Tosconf](https://tosconf.lhc.net.br/)|18 de março|Campinas, SP|Palestras, oficinas, tutoriais e outras atividades paralelas| Encerrado |
-| [TDC Connections](https://thedevconf.com/tdc/2023/connections/) | 22 a 24 de março | Recife, Belo Horizonte e Online |Tecnologia, Palestras, Trilhas| Encerrado |
-| [IWD Cerrado 2023](https://www.iwdcerrado.com.br/) | 15 de abril | Goiânia, GO |Tecnologias, Carreira, networking, Workshops, Keynotes| Encerrado |
-| [CityJS](https://dev.events/conferences/city-js-sao-paulo-sao-paulo-3-2023) | 24 a 26 de abril | São Paulo, SP| JavaScript, Tecnologia, Palestra | Encerrado |
-| [Bsides Vitória](http://bsides.vix.br/) | 06 de maio | Vitória, ES |Segurança da informação, cultura hacker, conferência| Encerrado |
-| [GitTogether São Paulo - Maio](https://www.meetup.com/pt-BR/githubbrasil/events/293277229/) | 20 de maio | São Paulo, SP |GitHub, Comunidade, Open Source| Encerrado |
-| [You sh0t the Sheriff 15](https://www.ysts.org/) | 29 de maio | São Paulo, SP |Segurança da informação, networking, ambiente informal, ifluentes do setor de segurança| Encerrado |
-| [GitTogether São Paulo - Junho](https://www.meetup.com/pt-BR/githubbrasil/events/293367325/) | 3 de junho | São Paulo, SP |GitHub, Comunidade, Open Source| Encerrado |
-| [Campus Party Goiás](https://brasil.campus-party.org/cpgoias3/) | 7 a 11 de junho | Goiânia, GO |Tecnologia, Campuseiros, Games, Cultura Geek| Não possui |
-| [TDC Innovation](https://thedevconf.com/tdc/2023/index.html) | 14 a 16 de junho | Florianópolis e Online |Tecnologia, Palestras, Trilhas| Encerrado |
-| [Women in Data Science](https://www.sympla.com.br/evento/women-in-data-science/1962941) | 15 de junho | São Paulo, SP | Data Science, Mulheres | Não possui |
-| [Codecon Digital](https://codecon.dev/) | 22 e 23 de junho | Online |Tecnologias, Carreira, Gamificação, Desafios, Hackathon, Fish bowl| Encerrado |
-| [DevStack Summit](https://www.devstacksummit.com/) | 22 e 23 de junho | Online |Futuro, Habilidades profissionais, Code Skills| Encerrado |
-| [Roadsec 2023](https://www.roadsec.com.br/) | 15 de julho | São Paulo, SP |Festival Hacker, Ataque, Defesa, Front End, Back End, Hardware, Data Science, Cloud e Privacidade| [Aqui](https://www.roadsec.com.br/call-for-papers) |
-| [Minas Testing Conference](https://minastestingconference.com.br/) | 22 de julho | Online |Testes, Conferência| [Aqui](https://docs.google.com/forms/d/1Jde0jNtlexyT703CSLcVHGNotm1PIUf_m5pdrKFB1Ls/viewform?edit_requested=true) |
-| [Campus Party BR](https://brasil.campus-party.org/cpbr15/) | 25 a 30 de julho | São Paulo, SP |Tecnologia, Campuseiros, Games, Cultura Geek| Não possui |
-| [FRONTIN Sampa 2023 + Code In The Dark](https://www.eventbrite.com.ar/e/frontin-sampa-2023-code-in-the-dark-tickets-574922567877) | 29 de julho | São Paulo, SP |Front-end, Code In The Dark, Programação| Não possui |
-| [DevLeaders Conference](https://www.devleaders.com.br/) | 11 de agosto | São Paulo, SP |Liderança, Stacks, Gestão tech, Tendências, Networking| Não possui |
-| [DevOpsDays Rio de Janeiro 2023](https://devopsdays.org/events/2023-rio-de-janeiro/welcome/) | 19 de agosto | Rio de Janeiro, RJ | Operações de infraestrutura de TI, testes de software, segurança | Encerrado |
-| [Codecon Summit](https://codecon.dev/) | 26 de agosto | Joinville, SC |Tecnologias, Carreira, Hackathon de projetos desnecessários, Fish bowl, Meet&Cookies| [Aqui](https://tally.so/r/w5X0GM) |
-| [TDC Business](https://thedevconf.com/tdc/2023/index.html) | 19 a 21 de setembro | São Paulo e Online |Tecnologia, Palestras, Trilhas| [Aqui](https://thedevconf.com/call4papers) |
-| [Gophercon Brasil 2023](https://gopherconbr.org/) | 22 e 23 de setembro | Florianópolis, SC | Go, Conferência | Não aberto ainda |
-| [Python Nordeste 2023](https://2023.pythonnordeste.org/) | 22 a 24 de setembro | Salvador, BA | Python | [Aqui](https://pretalx.com/python-nordeste-2023/cfp) |
-| [PHP Community Summit 2023](https://php.locaweb.com.br/) | 28 e 29 de setembro | São Paulo e Online | PHP, Híbrido | Encerrado |
-| [Codecon Feature](https://codecon.dev/) | 28 de outubro | Florianópolis, SC |Rodas de discussão, Architectural Kata, fish bowl, seções de desconferência, Workshops de hábitos, Keynotes internacionais| Não possui |
-| [Python Brasil 2023](https://2023.pythonbrasil.org.br/) | 30 de outubro a 05 de novembro | Caxias do Sul, RS | Python, Tecnologia, Palestras |  [Aqui](https://pretalx.com/python-brasil-2023/) |
-| [Front in Floripa](https://frontin.floripa.br/) | 25 de novembro | Florianópolis, SC | Front-end, Networking, Javascript | [Aqui](https://frontin.floripa.br/callforpaper) |
-| [TDC Future](https://thedevconf.com/tdc/2023/index.html) | 05 a 07 de dezembro | Porto Alegre e Online |Tecnologia, Palestras, Trilhas| [Aqui](https://thedevconf.com/call4papers) |
-| [PHP Conference Brasil 2023](https://phpconference.com.br/) | 07 a 09 de dezembro | Porto Alegre e Online |PHP, Palestras, Tutoriais, Híbrido| [Aqui](https://phpconference.com.br/callforpapers/) |
+| Nome                                                                          | Data            | Local         | Categorias | Call4papers                                                                                                 |
+|-------------------------------------------------------------------------------|-----------------|---------------|------------|-------------------------------------------------------------------------------------------------------------|
+| [DevOpsDays Goiânia](https://devopsdays.org/events/2024-goiania/welcome/)     | 6 de abril      | Goiânia, GO   | DevOps     | [Aqui](https://talks.devopsdays.org/devopsdays-goiania-2024/)                                               |
+| [DevOpsDays Aracaju](https://devopsdays.org/events/2024-aracaju/welcome/)     | 20 de abril     | Aracaju, SE   | DevOps     | [Aqui](https://www.papercall.io/dodaju2024)                                                                 |
+| [DevOpsDays São Paulo](https://devopsdays.org/events/2024-sao-paulo/welcome/) | 18 de maio      | São Paulo, SP | DevOps     | [Aqui](https://talks.devopsdays.org/devopsdays-sao-paulo-2024/)                                             |
+| [PHP Velho Oeste 2024](http://phpvelhoeste.com.br/2024/)                      | 17 e 18 de maio | Chapecó, SC   | PHP        | [Aqui](https://docs.google.com/forms/d/e/1FAIpQLScfmbllH-bzTbfCieKxKXSiBBGZketb4cQN2DkM5d1-LdiLMQ/viewform) |
+
 
 ## Comunidades
 
