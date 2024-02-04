@@ -21,6 +21,7 @@
 | [DevOpsDays Aracaju](https://devopsdays.org/events/2024-aracaju/welcome/)     | 20 de abril     | Aracaju, SE   | DevOps     | [Aqui](https://www.papercall.io/dodaju2024)                                                                 |
 | [DevOpsDays São Paulo](https://devopsdays.org/events/2024-sao-paulo/welcome/) | 18 de maio      | São Paulo, SP | DevOps     | [Aqui](https://talks.devopsdays.org/devopsdays-sao-paulo-2024/)                                             |
 | [PHP Velho Oeste 2024](http://phpvelhoeste.com.br/2024/)                      | 17 e 18 de maio | Chapecó, SC   | PHP        | [Aqui](https://docs.google.com/forms/d/e/1FAIpQLScfmbllH-bzTbfCieKxKXSiBBGZketb4cQN2DkM5d1-LdiLMQ/viewform) |
+| [Codecon Summit](https://eventos.codecon.dev/codecon-summit-24/)     | 6 e 7 de setembro      | Joinville, SC   | Dev     | [Aqui](https://eventos.codecon.dev/codecon-summit-24/)                                               |
 
 
 ## Comunidades
