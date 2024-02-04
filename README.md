@@ -1,7 +1,7 @@
 # Awesome communities and events Brazil
 ## Comunidades e eventos de tecnologia brasileiros incríveis
 
-![Awesome Communities and Events Brazil](https://user-images.githubusercontent.com/9409763/213772789-4bec6d9d-7523-434e-9197-de1fd3cb85ae.png)
+![Awesome Communities and Events Brazil](https://github.com/codecon-dev/awesome-communities-and-events-tech-brazil/assets/9409763/dd5bcb8f-2b02-4ea7-b4f9-b26545ac63ed)
 
 > Uma curadoria de comunidades eventos tech incríveis para você participar
 
