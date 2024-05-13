@@ -15,14 +15,13 @@
 
 ## Eventos 2024
 
-| Nome                                                                          | Data            | Local         | Categorias | Call4papers                                                                                                 |
-|-------------------------------------------------------------------------------|-----------------|---------------|------------|-------------------------------------------------------------------------------------------------------------|
-| [DevOpsDays Goiânia](https://devopsdays.org/events/2024-goiania/welcome/)     | 6 de abril      | Goiânia, GO   | DevOps     | [Aqui](https://talks.devopsdays.org/devopsdays-goiania-2024/)                                               |
-| [DevOpsDays Aracaju](https://devopsdays.org/events/2024-aracaju/welcome/)     | 20 de abril     | Aracaju, SE   | DevOps     | [Aqui](https://www.papercall.io/dodaju2024)                                                                 |
-| [DevOpsDays São Paulo](https://devopsdays.org/events/2024-sao-paulo/welcome/) | 18 de maio      | São Paulo, SP | DevOps     | [Aqui](https://talks.devopsdays.org/devopsdays-sao-paulo-2024/)                                             |
-| [PHP Velho Oeste 2024](http://phpvelhoeste.com.br/2024/)                      | 17 e 18 de maio | Chapecó, SC   | PHP        | [Aqui](https://docs.google.com/forms/d/e/1FAIpQLScfmbllH-bzTbfCieKxKXSiBBGZketb4cQN2DkM5d1-LdiLMQ/viewform) |
-| [Codecon Summit](https://eventos.codecon.dev/codecon-summit-24/)     | 6 e 7 de setembro      | Joinville, SC   | Dev     | [Aqui](https://eventos.codecon.dev/codecon-summit-24/)                                               |
-
+| Nome                                                                          | Data            | Local         | Categorias | Modo       | Call4papers                                                                                                 |
+|-------------------------------------------------------------------------------|-----------------|---------------|------------|------------|-------------------------------------------------------------------------------------------------------------|
+| [DevOpsDays Goiânia](https://devopsdays.org/events/2024-goiania/welcome/)     | 6 de abril      | Goiânia, GO   | DevOps     | ![presencial] | [Aqui](https://talks.devopsdays.org/devopsdays-goiania-2024/)                                               |
+| [DevOpsDays Aracaju](https://devopsdays.org/events/2024-aracaju/welcome/)     | 20 de abril     | Aracaju, SE   | DevOps     | ![presencial]     | [Aqui](https://www.papercall.io/dodaju2024)                                                                 |
+| [DevOpsDays São Paulo](https://devopsdays.org/events/2024-sao-paulo/welcome/) | 18 de maio      | São Paulo, SP | DevOps     | ![presencial] | [Aqui](https://talks.devopsdays.org/devopsdays-sao-paulo-2024/)                                             |
+| [PHP Velho Oeste 2024](http://phpvelhoeste.com.br/2024/)                      | 17 e 18 de maio | Chapecó, SC   | PHP        | ![presencial]     | [Aqui](https://docs.google.com/forms/d/e/1FAIpQLScfmbllH-bzTbfCieKxKXSiBBGZketb4cQN2DkM5d1-LdiLMQ/viewform) |
+| [Codecon Summit](https://eventos.codecon.dev/codecon-summit-24/)              | 6 e 7 de setembro | Joinville, SC | Dev | ![presencial] | [Aqui](https://eventos.codecon.dev/codecon-summit-24/) |
 
 ## Comunidades
 
@@ -74,3 +73,14 @@
 | [PokemaoBR](https://www.twitch.tv/pokemaobr) | Entretenimento para todos os gostos. Improvisos humorísticos, códigos em PHP, palestras de diversos temas, gama game, react, bingo, captura de linguagens de programação, jogos e muito mais!    |
 | [Levxyca](https://www.twitch.tv/levxyca) | Hobbies demais, introvertida, conversas sobre tech e aleatoriedades; 🌸 dev web front-end, streamer, criadora de conteúdo de tecnologia/programação e co-fundadora da @feminis_tech; ⭐ GitHub Star ⭐ aqui você encontra streams de front-end, muita conversa e entretenimento. |
 | [Maximillian Arruda](https://www.twitch.tv/maxdearruda) | Envolvido com desenvolvimento de software desde 2003, entusiasta de código open-source, membro do SouJava que gosta de organizar,  participar e palestrar em eventos para a comunidade.Sempre disponível para trocar experiências sobre desenvolvimento de software afim de aprender e ajudar a comunidade sobre técnicas, abordagens e melhores práticas. |
+
+
+
+<!--LINK DAS BADGES:START-->
+
+[presencial]: https://img.shields.io/static/v1?label=&message=presencial&color=blue
+[híbrido]: https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=red
+[online]: https://img.shields.io/static/v1?label=&message=online&color=purple
+
+<!--LINK DAS BADGES:END-->
+
