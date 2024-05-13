@@ -22,6 +22,39 @@
 | [DevOpsDays São Paulo](https://devopsdays.org/events/2024-sao-paulo/welcome/) | 18 de maio      | São Paulo, SP | DevOps     | ![presencial] | [Aqui](https://talks.devopsdays.org/devopsdays-sao-paulo-2024/)                                             |
 | [PHP Velho Oeste 2024](http://phpvelhoeste.com.br/2024/)                      | 17 e 18 de maio | Chapecó, SC   | PHP        | ![presencial]     | [Aqui](https://docs.google.com/forms/d/e/1FAIpQLScfmbllH-bzTbfCieKxKXSiBBGZketb4cQN2DkM5d1-LdiLMQ/viewform) |
 | [Codecon Summit](https://eventos.codecon.dev/codecon-summit-24/)              | 6 e 7 de setembro | Joinville, SC | Dev | ![presencial] | [Aqui](https://eventos.codecon.dev/codecon-summit-24/) |
+| [Algorithms & Data Structures - From Zero to Hero](https://www.meetup.com/pt-BR/craft-code-club/events/299324770/) | 03, 10 de maio | Online | Programming | ![online] | - |
+| [GDG Build With AI - Jaraguá do Sul](https://gdg.community.dev/events/details/google-gdg-joinville-presents-build-with-ai-jaragua-do-sul/) | 03 de maio | Jaraguá do Sul/SC | AI | ![presencial] | - |
+| [Hacking na Web Day Salvador](https://www.instagram.com/hackingnawebday/) | 04 de maio | Salvador/BA | Hacking | ![presencial] | - |
+| [Bits&Bytes Unicarioca - Estrutura de Controle - Tipos de Dados - Operadores - Técnicas de Programação](https://www.sympla.com.br/evento-online/letras-numeros-quimica-fisica-e-bits-bytes-on-line-2024-1/2365267) | 04, 11, 18 de maio | Online | Programming | ![online] | - |
+| [Brasil] Imersão IA em Java!](https://info.professorisidro.com.br/zl268boqn37b6/) | 04 de maio | Online | AI, Java | ![online] | - |
+| [GDG Build With AI - Joinville](https://gdg.community.dev/events/details/google-gdg-joinville-presents-build-with-ai-joinville/) | 04 de maio | Joinville/SC | AI | ![presencial] | - |
+| [GDG Build With AI - Edição em Sorocaba](https://gdg.community.dev/events/details/google-gdg-sorocaba-presents-build-with-ai-edicao-em-sorocaba/) | 04 de maio | Sorocaba/SP | AI | ![presencial] | - |
+| [GDG Build with AI Caraguatatuba](https://gdg.community.dev/events/details/google-gdg-caraguatatuba-presents-build-with-ai-caraguatatuba/) | 04 de maio | Caraguatatuba/SP | AI | ![presencial] | - |
+| [GDG Build with AI - GDG Vassouras & GDG Três Rios](https://gdg.community.dev/events/details/google-gdg-vassouras-presents-build-with-ai-gdg-vassouras-amp-gdg-tres-rios/) | 04 de maio | Vassouras/RJ | AI | ![presencial] | - |
+| [XXVII Ibero-American Conference on Software Engineering (CIbSE 2024)](https://conf.researchr.org/home/cibse-2024) | 6 a 10 de maio | Curitiba/PR | Software Engineering | ![presencial] | - |
+| [Hack in Sul: Ajude as Vítimas das Chuvas no Sul do Brasil!](https://www.sympla.com.br/evento-online/hack-in-sul-ajude-as-vitimas-das-chuvas-no-sul-do-brasil/2454858) | 08 de maio | Online | Programming | ![online] | - |
+| [Devs Que Criaram Startups 🚀 - NodeBR](https://guild.host/events/devs-que-criaram-startups-yam0rp) | 08 de maio | São Paulo/SP | Startups, Node.js | ![presencial] | - |
+| [GDG SANTOS - Study Group & Networking](https://gdg.community.dev/events/details/google-gdg-santos-presents-study-group-amp-networking-2024-05-07/) | 07 de maio | Online | Programming | ![online] | - |
+| [GopherCon Brasil 2024](https://gopherconbr.org/) | 09 e 10 de maio | Florianópolis/SC | Go | ![presencial] | - |
+| [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) | 09 de maio | São Paulo/SP | PHP | ![presencial] | - |
+| [AWS Cloud Experience 2024 Generative AI edition - Rio de Janeiro](https://awscloudexperiencerj2024.splashthat.com/) | 09 de maio | Rio de Janeiro/RJ | AWS, AI | ![presencial] | - |
+| [GDG Build With AI Marília](https://gdg.community.dev/events/details/google-gdg-marilia-presents-build-with-ai-marilia/) | 09 de maio | Marilia/SP | AI | ![presencial] | - |
+| [GDG BH Build With AI](https://gdg.community.dev/events/details/google-gdg-belo-horizonte-presents-build-with-ai-online/) | 09 de maio | Online | AI | ![online] | - |
+| [CryptoRave 2024](https://2024.cryptorave.org/) | 10 e 11 de maio | São Paulo/SP | Cryptography | ![presencial] | - |
+| [GDG Build with AI SJC - Período da manhã](https://gdg.community.dev/events/details/google-gdg-sao-jose-dos-campos-presents-build-with-ai-sjc-periodo-da-manha/) | 11 de maio | São José dos Campos/SP | AI | ![presencial] | - |
+| [GDG Build with AI SJC - Período da tarde](https://gdg.community.dev/events/details/google-gdg-sao-jose-dos-campos-presents-build-with-ai-sjc-periodo-da-tarde/) | 11 de maio | São José dos Campos/SP | AI | ![presencial] | - |
+| [Cloud Summit Cerrado](https://www.cloudsummitcerrado.com.br/) | 15 e 16 de maio | Goiânia/GO | Cloud | ![híbrido] | - |
+| [devTEC 2024](https://devtec.com.br/) | 14, 15, 16 de maio | Tubarão/SC | General | ![presencial] | - |
+| [XV Escola Regional de Alto Desempenho de São Paulo (ERAD-SP 2024)](https://erad-sp.github.io/) | 16, 17, 18 de maio | Rio Claro/SP | High Performance Computing | ![presencial] | - |
+| [DevOpsDays São Paulo 2024](https://devopsdays.org/events/2024-sao-paulo/welcome/) | 18 de maio | São Paulo/SP | DevOps | ![presencial] | - |
+| [BSides - Vitória](https://bsides.vix.br/) | 18 de maio | Vitória/ES | Security | ![presencial] | - |
+| [You Sh0t the Sheriff 16 - YSTS 16 2024](https://www.ysts.org/) | 20 de maio | São Paulo/SP | Security | ![presencial] | - |
+| [XX Simpósio Brasileiro de Sistemas de Informação (SBSI 2024)](https://sbsi2024.ufjf.br/) | 20, 21, 22, 23 de maio | Juiz de Fora/MG | Information Systems | ![presencial] | - |
+| [XLII Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC 2024)](https://sbrc.sbc.org.br/2024/) | 20, 21, 22, 23, 24 de maio | Niterói/RJ | Networks, Distributed Systems | ![presencial] | - |
+| [AWS Cloud Experience 2024 Generative AI edition - Curitiba](https://awscloudexperiencecuritiba2024.splashthat.com/) | 22 de maio | Curitiba/PR | AWS, AI | ![presencial] | - |
+| [ElixirDays](https://www.ingresse.com/elixirdays/) | 25 e 26 de maio | São Paulo/SP | Elixir | ![presencial] | - |
+| [Frontin Campinas 2024](https://www.frontincampinas.com.br/) | 25 de maio | Campinas/SP | Frontend | ![presencial] | - |
+
 
 ## Comunidades
 
